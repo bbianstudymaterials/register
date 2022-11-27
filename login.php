@@ -90,7 +90,7 @@ if(empty($err))
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="register.php">Register</a>
+        <a class="nav-link" href="index.php">Register</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="login.php">Login</a>
